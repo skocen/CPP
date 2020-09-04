@@ -1,3 +1,4 @@
+//My implementation of the Euclidean algorithm for finding the greatest common divisor
 #include <iostream>
 using namespace std;
 int euclid (int x, int y)
