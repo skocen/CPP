@@ -23,7 +23,7 @@ for (int i=0;i<n;i++){
       cout<<"Enter the lengths of the sides of the triangle :"<<endl;
       cin>>a>>b>>c;
       if (check(a,b,c)) {
-          pt=area(a,b,c);
+          ar=area(a,b,c);
           cout<<"Area of the triangle is "<<ar<<endl;
       }
       else
