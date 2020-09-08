@@ -18,7 +18,7 @@ for (int i=1;i<=n;i++) {
     }
 }
 if(b)
-    cout<<"The entered matrix is a symmetric matrix";
+    cout<<"The given matrix is a symmetric matrix";
 else
-    cout<<"The entered matrix is not a symmetric matrix";
+    cout<<"The given matrix is not a symmetric matrix";
 }
